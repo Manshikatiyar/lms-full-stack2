@@ -83,6 +83,8 @@ export const AppContextProvider = (props) => {
 
     }
 
+   
+
     // Function to Calculate Course Chapter Time
     const calculateChapterTime = (chapter) => {
 
@@ -163,3 +165,4 @@ export const AppContextProvider = (props) => {
     )
 
 }
+    
